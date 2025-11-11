@@ -24,7 +24,7 @@
 <h2>🖼️ Интерфейс</h2>
 
 <pre>
-<code>https://github.com/xenonim-ctrl/MyTasks-app/blob/main/Images/photo_2025-11-08_16-28-40.jpg</code>
+<code>![alt text](https://github.com/xenonim-ctrl/MyTasks-app/blob/main/Images/photo_2025-11-08_16-28-40.jpg)</code>
 </pre>
 
 <hr>
