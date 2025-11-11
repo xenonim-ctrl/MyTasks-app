@@ -23,12 +23,12 @@
 
 <h2>🖼️ Интерфейс</h2>
 
-![Image](https://github.com/user-attachments/assets/9cbdc30a-6023-438b-b97a-db097a113540)
-![Image](https://github.com/user-attachments/assets/8cbddf9f-aca3-4e83-9fe5-c2252013cec1)
-![Image](https://github.com/user-attachments/assets/f4409d0e-4668-437a-a4a1-11de10c0d4b6)
-![Image](https://github.com/user-attachments/assets/98910c49-4a1d-4d64-aaa0-24ee06bc61b3)
-![Image](https://github.com/user-attachments/assets/5cad517f-a41a-4fa4-8197-12d48ed45a60)
-![Image](https://github.com/user-attachments/assets/e4ac4344-7811-490d-b040-c447fe7a4cd2)
+<img src="https://github.com/user-attachments/assets/9cbdc30a-6023-438b-b97a-db097a113540" width="200" />
+<img src="https://github.com/user-attachments/assets/8cbddf9f-aca3-4e83-9fe5-c2252013cec1" width="200" />!
+<img src="https://github.com/user-attachments/assets/f4409d0e-4668-437a-a4a1-11de10c0d4b6" width="200" />!
+<img src="https://github.com/user-attachments/assets/98910c49-4a1d-4d64-aaa0-24ee06bc61b3" width="200" />!
+<img src="https://github.com/user-attachments/assets/5cad517f-a41a-4fa4-8197-12d48ed45a60" width="200" />!
+<img src="https://github.com/user-attachments/assets/e4ac4344-7811-490d-b040-c447fe7a4cd2" width="200" />!
 
 <hr>
 
