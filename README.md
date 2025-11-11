@@ -18,18 +18,18 @@
 Java 17+<br>
 JavaFX — интерфейс<br>
 H2 Database — хранение данных<br>
-Maven — управление зависимостями<br><br><br><br>
+Maven — управление зависимостями<br><br>
 
 
 
 🚀 Запуск проекта<br>
 Клонируй репозиторий:
-git clone https://github.com/xenonim-ctrl/MyTasks-app.git<br><br><br><br>
+git clone https://github.com/xenonim-ctrl/MyTasks-app.git<br><br>
 
 
 
 Перейди в папку проекта:<br>
-cd TaskManager<br><br><br><br>
+cd TaskManager<br><br>
 
 Собери и запусти через Maven:<br>
 mvn clean javafx:run<br><br><br><br>
