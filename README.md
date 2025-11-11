@@ -23,9 +23,7 @@
 
 <h2>🖼️ Интерфейс</h2>
 
-<pre>
-![Image](https://github.com/user-attachments/assets/c41b43e8-44de-4447-bc9e-9efb080d497a)
-</pre>
+![Image](https://github.com/user-attachments/assets/9cbdc30a-6023-438b-b97a-db097a113540)
 
 <hr>
 
