@@ -24,7 +24,7 @@
 <h2>🖼️ Интерфейс</h2>
 
 <pre>
-![screenshot](Images/photo_2025-11-08_16-28-40.jpg)
+![Image](https://github.com/user-attachments/assets/c41b43e8-44de-4447-bc9e-9efb080d497a)
 </pre>
 
 <hr>
