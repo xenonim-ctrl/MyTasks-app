@@ -24,7 +24,7 @@
 <h2>🖼️ Интерфейс</h2>
 
 <pre>
-<code>![Task Manager Screenshot](photo_2025-11-12_00-26-35.jpg)</code>
+<code>![Images](photo_2025-11-12_00-26-35.jpg)</code>
 </pre>
 
 <hr>
