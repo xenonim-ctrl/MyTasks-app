@@ -24,7 +24,7 @@ Maven — управление зависимостями
 
 🚀 Запуск проекта
 Клонируй репозиторий:
-git clone https://github.com/username/MyTasks-app.git
+git clone https://github.com/xenonim-ctrl/MyTasks-app.git
 
 
 
