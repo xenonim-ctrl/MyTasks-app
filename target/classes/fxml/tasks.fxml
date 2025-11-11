@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.example.javafxh2app.controllers.TasksController"
+            prefWidth="800" prefHeight="500"
+            styleClass="root tasks-root">
+
+    <!-- Верхняя панель с кнопкой Back -->
+    <top>
+        <HBox spacing="20" styleClass="top-bar" style="-fx-padding: 10;" alignment="CENTER_LEFT">
+            <Button fx:id="backBtn" text="Назад к Dashboard" styleClass="btn"/>
+            <Label text="Мои задачи" styleClass="title"/>
+        </HBox>
+    </top>
+
+    <!-- Левая панель с листом задач -->
+    <left>
+        <VBox spacing="8" style="-fx-padding: 10;" styleClass="tasks-left">
+            <Label text="Список задач" styleClass="subtitle"/>
+            <ListView fx:id="listView" prefWidth="300" prefHeight="380" styleClass="list-view"/>
+        </VBox>
+    </left>
+
+    <!-- Центр: детали задачи -->
+    <center>
+        <VBox spacing="8" style="-fx-padding: 10;" styleClass="tasks-center">
+            <Label text="Детали задачи" styleClass="subtitle"/>
+
+            <Label text="Текст"/>
+            <TextField fx:id="textField" styleClass="text-field"/>
+
+            <Label text="Приоритет"/>
+            <ComboBox fx:id="priorityBox" styleClass="combo-box"/>
+
+            <Label text="Дедлайн (дата + время)"/>
+            <HBox spacing="6">
+                <DatePicker fx:id="deadlineDate" styleClass="date-picker"/>
+                <TextField fx:id="deadlineTime" promptText="HH:mm" prefWidth="80" styleClass="text-field"/>
+                <Label text="(если время пусто, 23:59)" styleClass="info"/>
+            </HBox>
+
+            <HBox spacing="8">
+                <Button fx:id="addBtn" text="Добавить новую" styleClass="btn"/>
+                <Button fx:id="saveBtn" text="Сохранить" styleClass="btn"/>
+                <Button fx:id="markDoneBtn" text="Отметить выполненной" styleClass="btn"/>
+                <Button fx:id="deleteBtn" text="Удалить" styleClass="btn"/>
+            </HBox>
+
+            <Label fx:id="infoLabel" textFill="red" styleClass="info"/>
+        </VBox>
+    </center>
+</BorderPane>

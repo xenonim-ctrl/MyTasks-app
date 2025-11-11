@@ -1,0 +1,9 @@
+com\example\javafxh2app\models\Task.class
+com\example\javafxh2app\controllers\DashboardController.class
+com\example\javafxh2app\controllers\AuthController.class
+com\example\javafxh2app\Main.class
+com\example\javafxh2app\models\User.class
+com\example\javafxh2app\controllers\TasksController$1.class
+module-info.class
+com\example\javafxh2app\db\DB.class
+com\example\javafxh2app\controllers\TasksController.class
