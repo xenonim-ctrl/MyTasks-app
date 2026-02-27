@@ -48,7 +48,7 @@ MyTasks — это десктопное JavaFX-приложение для уп�
 
 
 <figure align="center">
-  <img src="docs/images/register.png" width="800">
+  <img src="docs/images/register.png" width="542">
   <figcaption><em>Рис. 2 — Регистрация (тот же экран, нужно нажать на "Зарегистрироваться")</em></figcaption>
 </figure>
 
