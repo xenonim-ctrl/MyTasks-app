@@ -1,0 +1,49 @@
+/* ====== GLOBAL ====== */
+.root {
+    -fx-background-color: linear-gradient(to bottom, #0f0a1a, #090611);
+    -fx-font-family: "JetBrains Mono", "Consolas", monospace;
+    -fx-text-fill: #b7b7ff;
+}
+
+/* ====== LABELS ====== */
+.label {
+    -fx-text-fill: #b7b7ff;
+}
+
+/* ====== LISTVIEW ====== */
+.list-view {
+    -fx-background-color: rgba(25, 15, 45, 0.6);
+    -fx-control-inner-background: rgba(25, 15, 45, 0.6);
+    -fx-border-color: rgba(120, 0, 255, 0.35);
+    -fx-border-width: 1;
+    -fx-background-insets: 0;
+}
+
+/* ====== BUTTONS NEON ====== */
+.button {
+    -fx-text-fill: #d0c9ff;
+    -fx-background-color: transparent;
+    -fx-padding: 7 14;
+    -fx-border-radius: 6;
+    -fx-background-radius: 6;
+    -fx-border-color: rgba(150, 60, 255, 0.8);
+    -fx-border-width: 1.2;
+    -fx-effect: dropshadow( gaussian , rgba(140,50,255,0.35), 15, 0.2, 0, 0 );
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-border-color: rgba(0, 180, 255, 1);
+    -fx-text-fill: #e3f6ff;
+    -fx-effect: dropshadow( gaussian , rgba(0,150,255,0.6), 25, 0.4, 0, 0 );
+}
+
+/* ====== TEXTFIELDS / COMBO ====== */
+.text-field, .combo-box, .date-picker {
+    -fx-background-color: rgba(25, 15, 45, 0.65);
+    -fx-text-fill: #b7b7ff;
+    -fx-border-color: rgba(150, 60, 255, 0.7);
+    -fx-border-width: 1;
+    -fx-background-radius: 6;
+    -fx-border-radius: 6;
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="CENTER" prefHeight="220" prefWidth="360" spacing="10" styleClass="root" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/25" fx:controller="com.example.javafxh2app.controllers.AuthController">
+    <padding>
+        <Insets bottom="20" left="20" right="20" top="20" />
+    </padding>
+
+    <Label styleClass="title" text="Вход / Регистрация" />
+    <TextField fx:id="usernameField" promptText="Логин" />
+    <PasswordField fx:id="passwordField" promptText="Пароль" />
+    <HBox alignment="CENTER" spacing="10">
+        <Button fx:id="loginBtn" minWidth="100" text="Войти" textAlignment="CENTER" textFill="#0f0f0f">
+         <font>
+            <Font name="Times New Roman" size="15.0" />
+         </font>
+      </Button>
+        <Button fx:id="registerBtn" minWidth="150" text="Зарегистрироваться">
+         <font>
+            <Font name="Times New Roman" size="15.0" />
+         </font></Button>
+    </HBox>
+    <Label fx:id="infoLabel" styleClass="info" text="" />
+</VBox>
