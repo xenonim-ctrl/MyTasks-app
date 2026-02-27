@@ -41,14 +41,14 @@ MyTasks — это десктопное JavaFX-приложение для уп�
 Если пользователь уже существует — регистрация не пройдёт.
 
 <figure align="center">
-  <img src="docs/images/login.png" width="542">
+  <img src="docs/images/login.png" width="600">
   <figcaption><em>Рис. 1 — Логин </em></figcaption>
 </figure>
 
 
 
 <figure align="center">
-  <img src="docs/images/register.png" width="542">
+  <img src="docs/images/register.png" width="600">
   <figcaption><em>Рис. 2 — Регистрация (тот же экран, нужно нажать на "Зарегистрироваться")</em></figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ src/main/java/com/example/javafxh2app/db/DB.java
 
 ### 🏠 Главная страница
 <figure align="center">
-  <img src="docs/images/dashboard.png" width="1000">
+  <img src="docs/images/dashboard.png" width="800">
   <figcaption><em>Рис. 4 — Главное окно. Дашборд.</em></figcaption>
 </figure>
 
@@ -93,13 +93,13 @@ src/main/java/com/example/javafxh2app/db/DB.java
 
 
 <figure align="center">
-  <img src="docs/images/create_task.png" width="1000">
+  <img src="docs/images/create_task.png" width="800">
   <figcaption><em>Рис. 5 — Окно создания задачи.</em></figcaption>
 </figure>
 
 
 <figure align="center">
-  <img src="docs/images/create_task_date.png" width="1000">
+  <img src="docs/images/create_task_date.png" width="800">
   <figcaption><em>Рис. 6 — Окно создания задачи. Выбор даты.</em></figcaption>
 </figure>
 
